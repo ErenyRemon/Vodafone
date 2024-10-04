@@ -1,0 +1,522 @@
+body {
+    margin: 0;
+}
+
+.topPage {
+    background-color: #3c3c3c;
+    width: 100%;
+    height: 30;
+    font-size: 20;
+    color: white;
+}
+
+.secondPage {
+    color: black;
+    /* position: fixed; */
+    background-color: white;
+    width: 6000px;
+}
+
+.personal {
+    width: 100%;
+    margin-left: 200;
+    margin-right: 50;
+    color: white;
+    text-decoration: none;
+}
+
+.personal:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.business {
+    margin-right: 50;
+    color: white;
+    text-decoration: none;
+
+}
+
+.business:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.vodafone {
+    margin-right: 50;
+    text-decoration: none;
+    color: white;
+}
+
+.vodafone:hover {
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.logo {
+    margin-left: 70;
+}
+
+.shop {
+    position: relative;
+    top: -20px;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.shop:hover {
+    color: red;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.services {
+    text-decoration: none;
+    color: black;
+}
+
+.services:hover {
+    color: red;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+.promotions {
+    color: black;
+    text-decoration: none;
+}
+
+.promotions:hover {
+    color: red;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+.services {
+    position: relative;
+    top: -20px;
+    margin-right: 20px;
+}
+
+.promotions {
+    position: relative;
+    top: -20px;
+}
+
+.thirdsectionPage {
+
+    width: 50%;
+    float: left;
+    margin-left: 30px;
+    /* margin-right: 70px; */
+    margin-top: 110px;
+    font-size: 16px;
+    text-transform: initial;
+    line-height: 20px;
+}
+
+
+.Subscribe {
+    cursor: pointer;
+    background-color: #e60000;
+    border-radius: 5px;
+    font-size: 15px;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+
+.flexImg {
+    width: 50%;
+    height: 70%;
+    float: left;
+    width: 750px;
+}
+
+.redSection {
+    clear: both;
+    width: 100%;
+    font-size: 30px;
+    background-color: #cc0001;
+    color: white;
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
+.redSectionmanage,
+.redSectionstore,
+.redSectionmanageshop,
+.redSectioncontact {
+    margin-right: 20px;
+    margin-left: 50px;
+    color: white;
+    text-decoration: none;
+}
+
+.redSectionmanage {
+    margin-left: 350px;
+}
+
+.imgManageUs {
+    margin-left: 30px;
+    padding-left: 50px;
+}
+
+.shop1 {
+    margin-top: px;
+    margin-right: 2%;
+}
+
+.store {
+    margin-right: 2%;
+}
+
+.AfterRedRow {
+
+    background-color: whitesmoke;
+    margin: 10px 20px 10px 50px;
+    /* align-items: center; */
+    margin-left: 0px;
+    margin-right: 0px;
+    position: relative;
+    padding-bottom: 50px;
+    padding-bottom: 50px;
+}
+
+.rate {
+    background-color: white;
+    margin-top: 30px;
+    width: 550px;
+    border-radius: 10px;
+    padding: 50px 20px 0px 20px;
+    height: 500px;
+    margin-left: 270px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    float: left;
+}
+
+.rateKnowMore {
+
+    color: red;
+    text-decoration: none;
+}
+
+.imgrate {
+    border-radius: 10px;
+
+}
+
+
+.Cash {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 600px;
+    height: 200px;
+    float: left;
+    /* align-items: center; */
+    margin-top: 30px;
+    margin-left: 30px;
+    padding: 10px 20px 30px 10px;
+    /* clear: both; */
+}
+
+.CashKnowMore {
+    color: red;
+    text-decoration: none;
+}
+
+.imgCash {
+
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+    margin-top: 20px;
+    float: right;
+    border-radius: 10px;
+}
+
+.TextCash {
+    margin-bottom: 20px;
+    float: left;
+
+}
+
+.DSL {
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 600px;
+    height: 200px;
+    float: left;
+    margin-top: 30px;
+    margin-left: 30px;
+    padding: 10px 20px 30px 10px;
+    border-radius: 10px;
+    margin-bottom: 30px;
+}
+
+.imgDSL {
+    width: 150px;
+    height: 150px;
+    margin-right: 20px;
+    margin-top: 20px;
+    float: right;
+    border-radius: 10px;
+}
+
+.DSLKnowMore {
+    color: red;
+    text-decoration: none;
+}
+
+.OtherServices {
+    /* margin-bottom: 300px; */
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    /* position: absolute; */
+    padding-top: 600px;
+    margin-left: 270px;
+    margin-top: 20px;
+}
+
+
+.AnaVodafoneApp {
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    /* padding: 20px; */
+    float: left;
+
+}
+
+.TextAnaVodafone {
+    width: 170px;
+
+    float: right;
+    padding: 0px;
+}
+
+.imgAnaVodafone {
+    border-radius: 10px;
+    padding: 30px 20px 30px 30px;
+    float: right;
+
+}
+
+.DownloadApp {
+    color: red;
+    text-decoration: none;
+    /* font-weight: bold; */
+}
+
+.DownloadApp:hover {
+    /* text-decoration: underline; */
+    cursor: pointer;
+
+}
+
+.HomeWireless {
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    /* padding: 20px; */
+    float: left;
+    margin-left: 30px;
+}
+
+.imgHomeWireless {
+    border-radius: 10px;
+    padding: 30px 20px 30px 30px;
+    float: right;
+}
+
+.KnowMore1 {
+    color: red;
+    text-decoration: none;
+}
+
+.TextHomeWireless {
+    width: 170px;
+    float: right;
+    padding: 0px;
+}
+
+.InternetBundles {
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    /* padding: 20px; */
+    float: left;
+    margin-left: 30px;
+}
+
+.imgInternetBundles {
+    border-radius: 10px;
+    padding: 30px 20px 30px 30px;
+    float: right;
+}
+
+.TextInternetBundles {
+    width: 170px;
+    float: right;
+    padding: 0px;
+}
+
+.KnowMore2 {
+    color: red;
+    text-decoration: none;
+}
+
+.G4Readiness {
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+    /* padding: 20px; */
+    float: left;
+    margin-left: 30px;
+}
+
+.img4GReadiness {
+    border-radius: 10px;
+    padding: 30px 20px 30px 30px;
+    float: right;
+}
+
+.Text4GReadiness {
+    width: 170px;
+    float: right;
+    padding: 0px;
+}
+
+.LearnMore3 {
+    color: red;
+    text-decoration: none;
+}
+
+
+.LastPage {
+    background-color: #333;
+    color: white;
+    margin-top: 250px;
+    padding: 50px;
+}
+
+.FirstLastPage {
+    width: 1000px;
+    height: 70px;
+    margin: 30px 50px 50px 200px;
+    border-bottom: 1px solid whitesmoke;
+}
+
+.LastPageLogo {
+    float: left;
+    width: 50px;
+    padding-right: 600px;
+    padding-left: 0px;
+}
+
+.Social {
+    float: left;
+    margin: 0px 0px 10px 40px;
+    padding-top: 15px;
+    width: 200px;
+}
+
+
+.SecondLastPage {
+    margin-left: 180px;
+}
+
+.AboutVodafone {
+    float: left;
+    margin: 0px 200px 10px 20px;
+}
+
+.HeadAboutVodafone,
+.HeadProductsAndServices,
+.HeadHelp {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+
+.AboutVodafoneCareers,
+.AboutVodafoneNewspress,
+.AboutVodafoneTV,
+.ProductsAndServicesShop,
+.ProductsAndServicesDSL,
+.ProductsAndServicesBroadband,
+.HelpServicesFAQ,
+.HelpCallus,
+.HelpStore,
+.ThirdLastPageContactus,
+.ThirdLastPageSwitch,
+.ThirdLastPageTerms,
+.ThirdLastPagePrivacy {
+    color: white;
+    text-decoration: none;
+    margin-top: 4px;
+}
+
+.ProductsAndServices {
+    float: left;
+    margin: 0px 200px 10px 20px;
+}
+
+.Help {
+    padding-top: 1px;
+    margin: 0px 200px 10px 20px;
+}
+
+.ThirdLastPage {
+    margin: 70px 300px 10px 400px;
+    padding-right: 100px;
+    color: white;
+}
+
+.ThirdLastPage p {
+    display: inline;
+}
+
+.ThirdLastPageContactus {
+    margin-right: 10px;
+}
+
+.ThirdLastPageSwitch {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.ThirdLastPageTerms {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.ThirdLastPagePrivacy {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.ForthLastPage {
+    margin: 10px 300px 10px 570px;
+}
